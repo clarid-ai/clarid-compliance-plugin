@@ -1,0 +1,13 @@
+{
+  "name": "clarid-compliance",
+  "owner": {
+    "name": "Avancee LLC"
+  },
+  "plugins": [
+    {
+      "name": "clarid-compliance",
+      "source": "./clarid-compliance",
+      "description": "Banking compliance intelligence for community banks and credit unions. Check marketing content against FDIC, NCUA, TILA, Reg DD, Reg Z, UDAAP, and Equal Housing regulations. Validate HMDA LAR files with 120+ edit checks. Screen for fair lending risk."
+    }
+  ]
+}
