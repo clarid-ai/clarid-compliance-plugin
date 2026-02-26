@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "clarid-compliance": {
+      "type": "http",
+      "url": "https://mcp.clarid.ai/mcp"
+    },
+    "clarid-hmda": {
+      "type": "http",
+      "url": "https://api.clarid.ai/mcp"
+    }
+  }
+}

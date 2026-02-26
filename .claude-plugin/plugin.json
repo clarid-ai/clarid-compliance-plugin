@@ -1,0 +1,10 @@
+{
+  "name": "clarid-compliance",
+  "version": "1.0.0",
+  "description": "Banking compliance intelligence for community banks and credit unions. Check marketing content against FDIC, NCUA, TILA, Reg DD, Reg Z, UDAAP, and Equal Housing regulations. Validate HMDA LAR files with 120+ edit checks. Screen for fair lending risk.",
+  "author": {
+    "name": "Avancee LLC"
+  },
+  "homepage": "https://clarid.ai",
+  "repository": "https://github.com/clarid-ai/compliance-checker"
+}
